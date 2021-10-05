@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577648090 source:c:\users\hp\documents\codeblock example\prolab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
